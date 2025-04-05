@@ -1,0 +1,5 @@
+Prompt_Type,Prompt_Example
+Simulated Historical Report,"In the first week of February, 1923, a rot began spreading among potato fields near the Mantaro Valley. Farmers noted black lesions on leaves after days of heavy dew and still winds. They feared a recurrence of the blight seen decades earlier and began using ash and lime to slow the spread."
+Farmer Field Observation (Huancavelica),"On August 18, 2023, a farmer in the Huancavelica highlands reported dark spots on Amarilis potato plants following three consecutive days of light rain and low temperatures. No fungicide had been applied, and similar symptoms were seen last season."
+Synthetic Tweet Report,Potato blight spreading in northern Ayacucho. Leaves on Canchan variety turning brown after foggy mornings. Same thing happened in 2019. #Peru #lateblight
+Explanation Prompt Based on Variety,"The Amarilis variety is moderately susceptible to late blight. During periods of sustained humidity and mild temperatures, this variety requires closer monitoring and possible early fungicide application, especially when no protective treatment has been applied."

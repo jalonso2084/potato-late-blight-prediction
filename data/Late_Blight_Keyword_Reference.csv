@@ -1,0 +1,13 @@
+Category,Keyword_or_Phrase,Suggested Use in Project
+Weather-Related Terms,humid conditions,Use in prompt design to simulate favorable blight conditions
+Weather-Related Terms,wet weather,Modeling synthetic rainy week scenarios
+Weather-Related Terms,damp spots,Highlight microclimates prone to disease in prompts
+Soil/Environmental Factors,manured land,Environmental stressor variable or prompt context
+Soil/Environmental Factors,use of salt/lime,Add to farmer response prompts for cultural realism
+Symptom Descriptions,rot,Symptom text classifier or generative prompt element
+Symptom Descriptions,decay,Detection cue in unstructured reports or prompt explanations
+Symptom Descriptions,black spots,Realistic text-based symptom label generator
+Social Media Keywords,blight,Keyword for monitoring forums or social platforms
+Social Media Keywords,potato disease,Use in tweet or SMS-style input generation
+Geographic/Transport Factors,river spread,Geo-pattern exploration or map-based model explanation
+Geographic/Transport Factors,tuber trade from South America,Historical reference in pathogen movement prompts
